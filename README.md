@@ -5,13 +5,6 @@
 > **MATH 014 — Introduction to Data Science · Spring 2026 · Howard University**
 > Sule Lubega
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-statistical%20viz-4C72B0)
-![plotly](https://img.shields.io/badge/plotly-interactive-3F4F75?logo=plotly&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## Overview
@@ -157,17 +150,6 @@ Open [`exports/Mapping_the_Machine.html`](exports/Mapping_the_Machine.html) in a
 - Waskom, M. L. (2021). Seaborn: Statistical Data Visualization. *Journal of Open Source Software, 6*(60), 3021.
 - Hunter, J. D. (2007). Matplotlib: A 2D Graphics Environment. *Computing in Science & Engineering, 9*(3), 90–95.
 - Plotly Technologies Inc. (2015). *Plotly Express documentation.* https://plotly.com/python/plotly-express/
-
----
-
-## Author
-
-**Sule Lubega**
-CS @ Howard University · Class of 2027 · Incoming AWS ProServe Public Sector Cloud Consultant Intern
-
-[![GitHub](https://img.shields.io/badge/GitHub-Slubega-181717?logo=github)](https://github.com/Slubega)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suleman--lubega-0A66C2?logo=linkedin)](https://www.linkedin.com/in/suleman-lubega-051326219)
-[![Email](https://img.shields.io/badge/Email-swlubega%40gmail.com-EA4335?logo=gmail)](mailto:swlubega@gmail.com)
 
 ---
 
